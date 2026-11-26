@@ -1,0 +1,19 @@
+# Local environment and secrets
+.env
+.env.*
+config.local.php
+*.log
+
+# Database exports and local database files
+*.sql
+*.sqlite
+*.db
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git
+.git/
